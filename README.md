@@ -21,8 +21,6 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Although I don't have a gif uploaded in this view, I will upload the mp4 in this respository
 
 In the event the gif isn't working I'll upload the walktrough video in the respository.
