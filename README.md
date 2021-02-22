@@ -25,13 +25,12 @@ Although I don't have a gif uploaded in this view, I will upload the mp4 in this
 
 In the event the gif isn't working I'll upload the walktrough video in the respository.
 
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
 
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 
@@ -51,4 +50,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/O5L00y4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+In the even that the gif doesn't work. I will upload the gif and mp4 in this repository
